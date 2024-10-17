@@ -55,7 +55,7 @@ export default function About() {
 
 
     <div>
-      <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet labore sequi sit est. Veniam, iusto incidunt architecto placeat eveniet minima unde accusantium quas harum! Autem est deleniti natus nemo? Sapiente.</h1>
+      <h1>Hello, I am Akarsh Katiyar, I am currently pursuing my Bachelors of Technology in Computer Science and Engineering from <a href="https://www.iitj.ac.in/"> Indian Institute of Technology, Jodhpur</a></h1>
     </div>
     
   </motion.div>
