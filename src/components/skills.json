@@ -1,0 +1,23 @@
+{
+     "skills" :[{
+        "title": "HTML",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, voluptatibus.",
+        "icon": "html5"
+      },
+      {
+        "title": "CSS",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, voluptatibus.",
+        "icon": "css3"
+      },
+      {
+        "title": "JavaScript",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, voluptatibus.",
+        "icon": "js"
+      },
+      {
+        "title": "React",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, voluptatibus.",
+        "icon": "reactjs"
+      }
+      ]
+}

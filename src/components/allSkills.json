@@ -1,0 +1,49 @@
+ { 
+    "allSkills" : [
+    {"icon":"html5"},
+    {"icon":"css3"},
+    {"icon":"js"},
+    {"icon":"reactjs"},
+    {"icon":"threejs"},
+    {"icon":"nodejs"},
+    {"icon":"mongodb"},
+    {"icon":"mysql"},
+    {"icon":"postgresql"},
+    {"icon":"firebase"},
+    {"icon":"aws"},
+    {"icon":"netlify"},
+    {"icon":"github"},
+    {"icon":"gitlab"},
+    {"icon":"heroku"},
+    {"icon":"bitbucket"},
+
+    
+    {"icon":"cloudflare"},
+    {"icon":"docker"},
+    {"icon":"kubernetes"},
+
+    {"icon":"nextjs2"},
+    {"icon":"c++"},
+    {"icon":"java"},
+    {"icon":"python"},
+    {"icon":"ruby"},
+    {"icon":"php"},
+    {"icon":"go"},
+    {"icon":"rust"},
+
+    {"icon":"tailwindcss"},
+    {"icon":"figma"},
+  
+   
+    {"icon":"framer"},
+   
+
+    {"icon":"dart"},
+    {"icon":"ec2"},
+    {"icon":"git"},
+    {"icon":"materialui"},
+    {"icon":"markdown"}
+  
+
+  ]
+}

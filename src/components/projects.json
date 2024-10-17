@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "title": "Chess Platform",
+            "description": "A full-stack chess application using React.js for dynamic frontend interfaces and Node.js for scalable backend services.",
+            "game":"http://43.205.228.117:8080/",
+            "link":"https://github.com/aakarsh-kt/Chess"
+           
+        },
+        {
+            "title": "Messenger",
+            "description": "Instant Messaging Service like Whatsapp with Audio and Video Calls Functionality.",
+            "link":"https://github.com/aakarsh-kt/Messenger"
+           
+        },
+        {
+            "title": "Movie Recommendation System",
+            "description": "Implemented and evaluated collaborative filtering and content-based filtering methods using the MovieLens dataset, exploring techniques to enhance recommendation effectiveness.",
+            "link":"https://github.com/Bansal0527/Movie-Recomendation-System"
+        }
+    ]
+}
