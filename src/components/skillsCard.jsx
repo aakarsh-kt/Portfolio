@@ -58,9 +58,9 @@ const SkillsCard = (props) => {
         <div  onClick={
           ()=>{window.open(props.link)}
         }>
-        <StackIcon name="github" style={{width:"50px",height:"50px"}}/>
+        {/* <StackIcon name="github" style={{width:"50px",height:"50px"}}/> */}
         </div>
-        {/* <StackIcon name={props.icon} />  */}
+        <StackIcon name={props.icon} style={{width:"50px",height:"50px"}} /> 
       </div>
     </motion.div>
   );
