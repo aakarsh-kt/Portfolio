@@ -36,7 +36,7 @@ export default function About() {
   >
     
 
-     <motion.img src="src/assets/Profile.jpeg" 
+     <motion.img src="/Profile.jpeg" 
     drag
     dragConstraints={{
       left: -50,
