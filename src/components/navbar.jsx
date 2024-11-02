@@ -51,7 +51,9 @@ const Navbar = () => {
        >
          <Example  style={{width:"80px",height:"80px",marginLeft:"auto"}}/>
             <motion.li whileHover={{scale:1.35,cursor:"pointer"}}>About</motion.li>
-            <motion.li whileHover={{scale:1.35,cursor:"pointer"}}>Resume</motion.li>
+            <motion.li whileHover={{scale:1.35,cursor:"pointer"}} onClick={
+              ()=>{window.open("/Akarsh_Resume.pdf",'_blank')}
+            }>Resume</motion.li>
             <motion.li whileHover={{scale:1.35,cursor:"pointer"}}>Projects</motion.li>
          <Example2  style={{width:"80px",height:"80px",marginLeft:"auto"}}/>
         </ul>

@@ -17,6 +17,7 @@ import About from './components/about.jsx';
 import AllSkills from './components/allSkills.jsx';
 import Projects from './components/projects.jsx';
 import Experiences from './components/experiences.jsx';
+import Resume from './components/Resume.jsx';
 const App = () => {
 
   
@@ -43,7 +44,7 @@ const App = () => {
       <Skills  />
       <Projects  />
       {/* <Experiences/> */}
-
+      <Resume />
       {/* </div> */}
     </div>
 

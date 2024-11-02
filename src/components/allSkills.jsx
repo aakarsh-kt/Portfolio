@@ -38,7 +38,7 @@ export default function AllSkills(props) {
      
     className="flex flex-col justify-center items-center m-2 p-2 rounded-md  text-white">        
       <h1 className="text-4xl font-bold mb-4">All Skills</h1>
-      <div className="flex flex-row flex-wrap justify-center gap-2">
+      <div className="flex flex-row flex-wrap justify-center gap-2 max-w-6xl">
         {allSkills.allSkills.map((skill) => (
             <motion.div
             whileHover={{scale: 1.3}}
